@@ -1,0 +1,1 @@
+# yandex_qa_diplom_samokat
