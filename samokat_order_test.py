@@ -16,4 +16,4 @@ def test_order_data_received():
     track = response.json()["track"]
     track_response = send_request.receive_order_information(track)
     assert track_response.status_code == 200
-    print(track_response.status_code)
+   
